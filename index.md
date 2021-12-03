@@ -1,4 +1,4 @@
-Essence Raphael
+# Essence Raphael
 
 👋  Heyyo, I'm Essence Raphael!
 
@@ -9,11 +9,11 @@ At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 
 🎨  When I'm not working, I like painting.
 
-Favorite quote
+## Favorite quote
 
 Hello!
 
-Countries visited
+## Countries visited
 
 Brazil
 England
