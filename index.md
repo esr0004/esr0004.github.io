@@ -11,12 +11,12 @@ At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 
 ## Favorite quote
 
-Hello!
+> "Hello!"
 
 ## Countries visited
 
-Brazil
-England
-Egypt
-New Zealand
-Mongolia
+- Brazil
+- England
+- Egypt
+- New Zealand
+- Mongolia
