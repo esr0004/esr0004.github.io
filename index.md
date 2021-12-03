@@ -13,10 +13,7 @@ Favorite quote
 
 Hello!
 
-Countries visited
+States visited
 
-Brazil
-England
-Egypt
-New Zealand
-Mongolia
+Alabama
+Mississippi
