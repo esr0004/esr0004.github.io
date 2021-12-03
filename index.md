@@ -16,7 +16,7 @@ Hello!
 Countries visited
 
 Brazil
-<Country_2>
-<Country_3>
-<Country_4>
-<Country_5>
+England
+Egypt
+New Zealand
+Mongolia
