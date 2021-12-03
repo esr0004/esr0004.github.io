@@ -8,3 +8,15 @@ Essence Raphael
 At IMPACT, I work with various Earth Science 🌎 data, products and algorithms.
 
 🎨  When I'm not working, I like painting.
+
+Favorite quote
+
+Hello!
+
+Countries visited
+
+Brazil
+<Country_2>
+<Country_3>
+<Country_4>
+<Country_5>
